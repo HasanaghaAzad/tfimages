@@ -3,8 +3,8 @@ Images for training Tensorflow Image Classifier
 
 Images list
 
-<h2>299x229<h2>
-<h3>Human</h3>
+## 299x229
+### Human
 
 | Foldername  | Images count |
 | ------------- | ------------- |
