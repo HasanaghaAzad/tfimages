@@ -23,6 +23,6 @@ Images list
 | human-carton-face                                        |  32  |             |
 | human-cartoon-half                                       |  24  |             |
 | human-cartoon-head-shoulder                              |  35  |             |
-| human-cartoon-kid                                        |  1   |             |
+| human-cartoon-kid                                        |  1   | doesnt work |
 | human-cartoon-sitting                                    |  5   | doesnt work |
 | human-cartoon-standing                                   |  42  |             |
