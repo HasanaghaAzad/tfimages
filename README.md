@@ -7,20 +7,19 @@ Images list
 
 #### Human
 
-| Foldername  | Images count |
+| Foldername  | Images count | Status |
 | ------------- | ------------- |
-| human half| 52 images </li>
-| human-cartoon                                            | 1    |
-| human-face                                               | 105  |
-| human-half-kid                                           | 2    |
-| human-half-legs                                          | 4    |
-| human-head-shoulder                                      | 58   |
-| human-headsholder-cartoon                                | 4    |
-| human-running                                            | 2    |
-| human-sitting                                            | 20   |
-| human-standing                                           | 48   |
-| human-standing-anatomy                                   | 3    |
-| human-standing-kid                                       | 1    |
-| human-standing-kid-cartoon                               | 1    |
-| human-standing-skelet                                    | 1    |
- 
+| human half                                               | 52   | |
+| human-cartoon                                            | 1    | |
+| human-face                                               | 105  | |
+| human-half-kid                                           | 2    | |
+| human-half-legs                                          | 4    | |
+| human-head-shoulder                                      | 58   | |
+| human-headsholder-cartoon                                | 4    | doesnt work |
+| human-running                                            | 2    |      |
+| human-sitting                                            | 20   |     |
+| human-standing                                           | 48   |     |
+| human-standing-anatomy                                   | 3    |    |
+| human-standing-kid                                       | 1    |    |
+| human-standing-kid-cartoon                               | 1    |    |
+| human-standing-skelet                                    | 1    |    |
