@@ -12,7 +12,7 @@ Images list
 | human half                                               | 52   | |
 | human-cartoon                                            | 1    | doesnt work |
 | human-face                                               | 105  | |
-| human-half-kid                                           | 2    | |
+| human-half-kid                                           | 2    | doesnt work |
 | human-half-legs                                          | 4    | doesnt work |
 | human-head-shoulder                                      | 58   | |
 | human-headsholder-cartoon                                | 4    | doesnt work |
