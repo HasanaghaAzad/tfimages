@@ -20,6 +20,6 @@ Images list
 | human-sitting                                            | 20   |     |
 | human-standing                                           | 48   |     |
 | human-standing-anatomy                                   | 3    |    |
-| human-standing-kid                                       | 1    |    |
+| human-standing-kid                                       | 1    | doesnt work |
 | human-standing-kid-cartoon                               | 1    |    |
-| human-standing-skelet                                    | 1    |    |
+| human-standing-skelet                                    | 1    | doesnt work |
