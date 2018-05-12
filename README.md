@@ -8,7 +8,7 @@ Images list
 #### Human
 
 | Foldername  | Images count | Status |
-| ------------- | ------------- |
+| ------------- | ------------- | ---- |
 | human half                                               | 52   | |
 | human-cartoon                                            | 1    | |
 | human-face                                               | 105  | |
