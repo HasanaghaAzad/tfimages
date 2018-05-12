@@ -14,7 +14,7 @@ Images list
 | human-half-kid                                           | 2    | doesnt work |
 | human-half-legs                                          | 4    | doesnt work |
 | human-head-shoulder                                      | 58   |             |
-| human-running                                            | 2    |             |
+| human-running                                            | 2    | doesnt work |
 | human-sitting                                            | 20   | doesnt work |
 | human-standing                                           | 48   |             |
 | human-standing-anatomy                                   | 3    |             |
