@@ -24,4 +24,5 @@ Images list
 | human-cartoon-half                                       |  24  |             |
 | human-cartoon-head-shoulder                              |  35  |             |
 | human-cartoon-kid                                        |  1   |             |
+| human-cartoon-sitting                                    |  5   | doesnt work |
 | human-cartoon-standing                                   |  42  |             |
