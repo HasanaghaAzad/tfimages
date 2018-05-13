@@ -17,7 +17,7 @@ Images list
 | human-running                                            | 2    | doesnt work |
 | human-sitting                                            | 20   | doesnt work |
 | human-standing                                           | 48   |             |
-| human-standing-anatomy                                   | 3    |             |
+| human-standing-anatomy                                   | 0    |             |
 | human-standing-kid                                       | 1    | doesnt work |
 | human-standing-skelet                                    | 1    | doesnt work |
 | human-carton-face                                        |  32  |             |
