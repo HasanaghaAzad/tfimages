@@ -26,3 +26,15 @@ Images list
 | human-cartoon-kid                                        |  1   | doesnt work |
 | human-cartoon-sitting                                    |  5   | doesnt work |
 | human-cartoon-standing                                   |  42  |             |
+
+
+
+
+
+### Randomsize
+
+#### Round
+
+| Foldername  | Images count | Status |
+| ------------- | ------------- | ---- |
+|  round        | 92   |             |
